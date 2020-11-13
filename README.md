@@ -9,7 +9,7 @@ For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.
 [Codewars Link](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 
-### How to submit your code for review:
+### How to submit your code for review :
 
 - Fork and clone this repo
 - Create a new branch called solutions
